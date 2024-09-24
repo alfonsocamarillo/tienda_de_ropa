@@ -1,0 +1,21 @@
+Codigo,Talle,Genero,Precio,Stock,Descripcion
+001,S,Hombre,20.0,10,Camiseta de algodón
+002,M,Mujer,25.0,5,Blusa de seda
+003,L,Unisex,30.0,15,Sudadera con capucha
+004,XL,Hombre,35.0,8,Chaqueta de cuero
+005,S,Mujer,20.0,12,Falda de mezclilla
+006,M,Unisex,18.0,20,Pantalones cortos
+007,L,Hombre,40.0,7,Saco de lana
+008,XL,Mujer,22.0,10,Vestido de verano
+009,S,Unisex,15.0,25,Gorra deportiva
+010,M,Hombre,50.0,6,Traje formal
+011,L,Mujer,28.0,18,Leggings de yoga
+012,XL,Unisex,20.0,30,Chaleco acolchado
+013,S,Hombre,22.0,10,Suéter de rayas
+014,M,Mujer,24.0,12,Top sin mangas
+015,L,Unisex,35.0,5,Chaqueta de mezclilla
+016,XL,Hombre,45.0,3,Abrigo de invierno
+017,S,Mujer,20.0,14,Pantalones de vestir
+018,M,Unisex,30.0,10,Bermudas de lino
+019,L,Hombre,60.0,2,Blazer de terciopelo
+020,XL,Mujer,25.0,9,Falda plisada

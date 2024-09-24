@@ -1,0 +1,21 @@
+Codigo,Material,Precio,Stock,Descripcion
+101,Cuero,50.0,19,Cinturón de cuero
+102,Plástico,15.0,30,Gafas de sol
+103,Metal,40.0,10,Reloj de pulsera
+104,Cuero,60.0,5,Bolso de mano
+105,Plástico,10.0,25,Llavero decorativo
+106,Metal,70.0,8,Pulsera de plata
+107,Cuero,30.0,15,Cartera de bolsillo
+108,Plástico,20.0,20,Funda para teléfono
+109,Metal,35.0,12,Anillo de acero
+110,Cuero,45.0,6,Mochila de viaje
+111,Plástico,18.0,18,Auriculares deportivos
+112,Metal,55.0,7,Collar de oro
+113,Cuero,25.0,22,Portatarjetas
+114,Plástico,12.0,28,Espejo de bolsillo
+115,Metal,80.0,4,Abrecartas de lujo
+116,Cuero,50.0,10,Guantes de conducción
+117,Plástico,14.0,19,Pulsera de fitness
+118,Metal,65.0,5,Gargantilla de plata
+119,Cuero,35.0,13,Zapatos de cuero
+120,Plástico,16.0,24,Correa de reloj

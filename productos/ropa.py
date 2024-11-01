@@ -13,7 +13,7 @@ class Ropa(Producto):
         self.__talle = talle
         self.__genero = genero
         self.__lista_talles = ["S", "M", "L", "XL"]
-        self.__lista_generos = ["Masculino", "Femenino", "Unisex"]
+        self.__lista_generos = ["Hombre", "Mujer", "Unisex"]
     
     def get_talle(self):
         return self.__talle
@@ -27,14 +27,14 @@ class Ropa(Producto):
             nuevo_talle (str): [ S , M , L , XL ]
         """
         if nuevo_talle.upper() in self.__lista_talles:
-            self.__talle = self.__lista_talles
+            self.__talle = nuevo_talle
         else:
             print(f"El Talle que se paso no es valido \nLos valores validos son {self.__lista_talles}")
     
     def set_genero(self, nuev_genero : str):
         """
         Args:
-            nuev_genero (str): [ Masculino , Femenino , Unisex]
+            nuev_genero (str): [ Hombre , Mujer , Unisex]
         """
         if nuev_genero.capitalize() in self.__lista_generos:
             self.__genero = nuev_genero
